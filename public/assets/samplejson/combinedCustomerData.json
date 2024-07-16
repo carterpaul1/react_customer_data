@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Paul Carter",
+    "email": "paucar7894@students.ecpi.edu",
+    "phone": "757-123-1234",
+    "city": "Newport News",
+    "state": "Va",
+    "country": "USA",
+    "organization": "Company 1",
+    "jobProfile": "Software Developer Student",
+    "additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+  },
+  {
+    "id": 2,
+    "name": "ABCD",
+    "email": "abcd@test.com",
+    "phone": "987654321",
+    "city": "Richmond",
+    "state": "Va",
+    "country": "USA",
+    "organization": "Company 2",
+    "jobProfile": "Manager",
+    "additionalInfo": "New customer with high potential"
+  },
+  {
+    "id": 3,
+    "name": "Tyrion",
+    "email": "tyrion@test.com",
+    "phone": "123412345",
+    "city": "Kings Landing",
+    "state": "Westeros",
+    "country": "Seven Kingdoms",
+    "organization": "Hand of the King",
+    "jobProfile": "Advisor",
+    "additionalInfo": "Loyal and wise"
+  }
+]
